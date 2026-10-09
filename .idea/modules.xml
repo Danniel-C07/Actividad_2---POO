@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Actividad 2.iml" filepath="$PROJECT_DIR$/.idea/Actividad 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_1_Persona/Ejercicio_2_1_Persona.iml" filepath="$PROJECT_DIR$/Ejercicio_2_1_Persona/Ejercicio_2_1_Persona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_2_Planeta/Ejercicio_2_2_Planeta.iml" filepath="$PROJECT_DIR$/Ejercicio_2_2_Planeta/Ejercicio_2_2_Planeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_3_Automovil/Ejercicio_2_3_Automovil.iml" filepath="$PROJECT_DIR$/Ejercicio_2_3_Automovil/Ejercicio_2_3_Automovil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_4_Figuras/Ejercicio_2_4_Figuras.iml" filepath="$PROJECT_DIR$/Ejercicio_2_4_Figuras/Ejercicio_2_4_Figuras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_5_CuentaBancaria/Ejercicio_2_5_CuentaBancaria.iml" filepath="$PROJECT_DIR$/Ejercicio_2_5_CuentaBancaria/Ejercicio_2_5_CuentaBancaria.iml" />
+    </modules>
+  </component>
+</project>
